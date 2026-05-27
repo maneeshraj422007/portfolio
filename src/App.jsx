@@ -492,7 +492,7 @@ useEffect(() => {
                 <div className="h-[260px] overflow-hidden">
 
                   <img
-                    src="/ems.png"
+                    src="/portfolio/ems.png"
                     alt="project"
                     className="w-full h-full object-cover group-hover:scale-110 transition duration-500"
                   />
@@ -561,7 +561,7 @@ useEffect(() => {
                 <div className="h-[260px] overflow-hidden">
 
                   <img
-                    src="/task.png"
+                    src="/portfolio/task.png"
                     alt="Task Manager"
                     className="w-full h-full object-cover group-hover:scale-110 transition duration-500"
                   />
